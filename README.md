@@ -8,5 +8,5 @@
 * :mortar_board: graduating Systems Analysis and Development 2/6 ...
 * ⚽  in the weekends ...
 
-### interests  :globe_with_meridians:
-*I am currently interested in learning, gaining knowledge and being a good developer.
+### **_Interests_**  :globe_with_meridians:
+* 📑 I am currently interested in learning, gaining knowledge and being a good developer.
