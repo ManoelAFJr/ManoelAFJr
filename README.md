@@ -1,3 +1,14 @@
+
+<img src="https://img.shields.io/badge/manoeljunior96592-facebook-blue"
+/>
+<img
+src="https://img.shields.io/badge/ManoelAFJr-GitHub-white"
+/>
+<img
+src="https://img.shields.io/badge/%40manoeljunior__06-instagram-red"
+/>
+
+
 ### Hi there 👋, I am Manoel A Ferreira Junior or MJ
 ### About me
 
