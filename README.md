@@ -3,7 +3,7 @@
 
  <a href = "https://www.instagram.com/manoeljunior_06;show_switched_toast=0&amp;show_switched_tooltip=0&amp;show_podcast_settings=0" rel="nofollow"> <img alt="instagram Badge"  src="https://img.shields.io/badge/instagram-BB5e56?style=for-the-badge&amp;logo=instagram&amp;logoColor=white"></a>
 
- <a href = "https://www.linkedin.com/in/manoel-a-f-junior-2632a3207;show_switched_toast=0&amp;show_switched_tooltip=0&amp;show_podcast_settings=0" rel="nofollow"> <img alt="linkedin Badge"  src="https://img.shields.io/badge/linkedin-1877F2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"></a>
+ <a href = "https://www.linkedin.com/in/manoel-a-f-junior-2632a3207/;show_switched_toast=0&amp;show_switched_tooltip=0&amp;show_podcast_settings=0" rel="nofollow"> <img alt="linkedin Badge"  src="https://img.shields.io/badge/linkedin-1877F2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"></a>
  
 <img alt="Website" src="https://img.shields.io/website?down_color=offline&down_message=whats&label=Discord-Manoeljunior%235684&logo=discord&logoColor=white&style=for-the-badge&up_color=gren&up_message=Online&url=https%3A%2F%2Fdiscord.com%2Fchannels%2F%40me">
 
