@@ -15,11 +15,25 @@
 ### Hi there 👋, I am Manoel A Ferreira Junior or MJ
 ### About me
 
+```java
+Public class ManoelJr{
+ private String nome = "Manoel A. Ferreira Junior" ;
+ final String IFPB = Instituto Federal da Paraíba;
+ private int idade = 27;
+ private String graduacao;
+ 
+ public String getGraduacao(){
+  return graduacao;
+ }
+ public ManoelJr(){
+  this.getGraduacao("graduating Systems Analysis and Development 3/6 ")
+ }
+}
+```
 
 * 🌱 I’m currently learning ...
 * 💬 Ask me about ...
 * :eyes: future ...
-* :mortar_board: graduating Systems Analysis and Development 3/6 ...
 * ⚽  in the weekends ...
 
 ### **_Interests_**  :globe_with_meridians:
