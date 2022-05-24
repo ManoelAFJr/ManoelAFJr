@@ -26,7 +26,7 @@
 ```java
 Public class ManoelJr{
  private String nome = "Manoel A. Ferreira Junior" ;
- final String IFPB = Instituto Federal da Paraíba;
+ final String IFPB = "Instituto Federal da Paraíba";
  private int idade = 27;
  private String graduacao;
  
@@ -34,7 +34,7 @@ Public class ManoelJr{
   return graduacao;
  }
  public ManoelJr(){
-  this.getGraduacao("graduating Systems Analysis and Development 3/6 ")
+  this.getGraduacao("graduating Systems Analysis and Development 4/6 ")
  }
 }
 ```
