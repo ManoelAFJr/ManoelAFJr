@@ -27,7 +27,7 @@
 Public class ManoelJr{
  private String nome = "Manoel A. Ferreira Junior" ;
  final String IFPB = "Instituto Federal da Paraíba";
- private int idade = 28;
+ private int idade = 29;
  private String graduacao;
  
  public String getGraduacao(){
